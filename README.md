@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Football Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Alwin Thomas</h1>
 <h3 align="center">Aspiring Software Developer | Full Stack Developer | Tech Enthusiast</h3>
