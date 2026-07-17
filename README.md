@@ -56,19 +56,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats-sigma.vercel.app/api?username=Alwinth&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Alwinth&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alwinth&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
