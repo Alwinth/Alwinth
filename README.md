@@ -27,31 +27,31 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
 </p>
 
 ---
